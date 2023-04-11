@@ -2,8 +2,3 @@ Username: admin
 email address: admin@puddle.com
 password: puddleadmin
 
-Current issues:
-- need to fix the messaging 
-in particular the @ with who sent the message is not showing up
-also, it is not changing color with blue vs gray with respect to who sent the message
-work was done in detail.html(from conversations), urls.py(from conversations), views.py(from conversations), and models.py(from conversations)
